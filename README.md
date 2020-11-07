@@ -1,4 +1,4 @@
-![banner](./assets/banner.gif)
+![decoration](./assets/decoration.gif)
 
 ## VSCode extensions that I use
 
